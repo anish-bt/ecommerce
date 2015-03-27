@@ -41,6 +41,7 @@
 			$this->_type=$type;
 			$this->_title=$title;
 		}
+		
 		/*public function setProductType($type)
 		{
 			$this->_type=$type;
